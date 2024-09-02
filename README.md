@@ -9,7 +9,7 @@
   <a href="https://www.youtube.com/@muskanas78">
     <img src="https://img.shields.io/badge/YouTube-7B0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://www.instagram.com/@muskanas78">
+  <a href="https://www.instagram.com/muskanas78/">
     <img src="https://img.shields.io/badge/Instagram-7B0000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
