@@ -17,13 +17,13 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=muskanas78&style=flat-square&color=7B0000" alt=""/>
   <h1>
-    Hello
+    Hi, I'm Muskan
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 
 <p align="center">
   <a href="https://git.io/typing-svg" rel="nofollow">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=7B0000&center=true&width=435&lines=I'm+Muskan+Ahmed+:/;FinTech+Student;AI/ML+Researcher;Web+Developer;UI/UX+Designer;Books+and+Arts;" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7B0000&center=true&width=435&lines=FinTech+Student;AI/ML+Researcher;Web+Developer;UI/UX+Designer;Book+Reader;Chess+Player" alt="Typing SVG">
   </a>
 </p>
