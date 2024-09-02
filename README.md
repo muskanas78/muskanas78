@@ -27,7 +27,8 @@
   </h1>
   <h5>
       I am a 3rd Semester Computer Science and Finance Student at FAST-NUCES in Islamabad, Pakistan, and my curiosity for learning knows no bounds. As a problem-solving enthusiast, I am always seeking new challenges and innovative solutions. With a keen interest in real world problems and its intersection with technology, I believe the possibilities for improving the world are limitless.
-
+  </h5>
+  <h5>
 If you want a sincere, ingenious, passionate team member, look no further – I am your ally!
   </h5>
 </div>
