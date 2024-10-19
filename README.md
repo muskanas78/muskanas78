@@ -31,6 +31,12 @@
   <h5>
 If you want a sincere, ingenious, passionate team member, look no further – I am your ally!
   </h5>
+  <h5>
+    My portfolio:
+  </h5>
+  <a href="https://muskanas78.my.canva.site/">
+    <img src="https://img.shields.io/badge/Canva-7B0000?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Badge"/>
+  </a>
 </div>
 
 <div align="center">
