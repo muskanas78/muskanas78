@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW16YWc5aXF4OGZpY2x6Zjlycno0enFicDB1OGQwcWE2dWM4ZG9tciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dzv7JShHYPDP2/giphy.gif" width="100"/>
+  <img src="https://0.soompi.io/wp-content/uploads/2023/06/24074347/my-mister.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -26,10 +26,10 @@
     </p>
   </h1>
   <h5>
-      I am a 3rd Semester Computer Science and Finance Student at FAST-NUCES in Islamabad, Pakistan, and my curiosity for learning knows no bounds. As a problem-solving enthusiast, I am always seeking new challenges and innovative solutions. With a keen interest in real world problems and its intersection with technology, I believe the possibilities for improving the world are limitless.
+      I am a student at FAST-NUCES studying Computer Science and Finance, driven by a deep-rooted 'WHY'—the desire to solve problems around the world that can impact people at a large scale! I've always had a propensity towards figuring out how certain things/machines work and to me, the computer is the ultimate sandbox for this. Just layers upon layers of abstraction that there is always something more to explore or learn about. I want to design algorithms instead of memorizing them. For me, it's not about learning the tools and skills; but asking why certain issues exist and how I can grasp the ideas and essence of them to merge creativity and problem-solving.
   </h5>
   <h5>
-If you want a sincere, ingenious, passionate team member, look no further – I am your ally!
+That's what I love.
   </h5>
   <h5>
     My portfolio:
