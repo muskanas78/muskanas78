@@ -26,7 +26,7 @@
     </p>
   </h1>
   <h5>
-      I am a student at FAST-NUCES studying Computer Science and Finance, driven by a deep-rooted 'WHY'—the desire to solve problems around the world that can impact people at a large scale! I've always had a propensity towards figuring out how certain things/machines work and to me, the computer is the ultimate sandbox for this. Just layers upon layers of abstraction that there is always something more to explore or learn about. I want to design algorithms instead of memorizing them. For me, it's not about learning the tools and skills; but asking why certain issues exist and how I can grasp the ideas and essence of them to merge creativity and problem-solving.
+      I am a student at FAST-NUCES studying Computer Science and Finance, driven by a deep-rooted 'why'—the desire to solve problems around the world that can impact people at a large scale. I've had a propensity towards figuring out how certain things work and to me, computer is the ultimate sandbox for this. Just layers upon layers of abstraction that there is always something more to explore or learn about. I want to design algorithms instead of simply memorizing them. Asking why certain issues exist and how I can grasp the ideas and essence of them to merge creativity and problem-solving.
   </h5>
   <h5>
 That's what I love.
