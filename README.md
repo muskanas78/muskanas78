@@ -6,7 +6,7 @@
   <h3>Hi, I'm Muskan</h3>
     <p align="center">
       <a href="https://git.io/typing-svg" rel="nofollow">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7B0000&center=true&width=435&lines=FinTech+Student;AI/ML+Researcher;Web+Developer;UI/UX+Designer;Avid+Reader;Artist" alt="Typing SVG">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7B0000&center=true&width=435&lines=FinTech+Student;AI/ML+Researcher;Computer+Vision;Web+Developer;UI/UX+Designer;Reader;Artist" alt="Typing SVG">
       </a>
     </p>
 </div>
