@@ -10,3 +10,5 @@
       </a>
     </p>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28&height=100&section=footer" style="width: 100%; transform: rotate(180deg);" alt="Wave"/>
