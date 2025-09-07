@@ -83,8 +83,8 @@ muskan@devspace:~$ echo "AI/ML Enthusiast • Systems Researcher"
 ## 📊 GitHub Analytics
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanas78&layout=compact&theme=radical&hide_border=true&custom_title=Code%20Distribution"/>  
-<img height="180em" src="https://streak-stats.demolab.com/?user=muskanas78&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanas78&layout=compact&theme=radical&hide_border=true&custom_title=Language%20Distribution" height="180em" style="display:inline-block; margin: 0 10px;"/>
+  <img src="https://streak-stats.demolab.com/?user=muskanas78&theme=radical&hide_border=true" height="180em" style="display:inline-block; margin: 0 10px;"/>
 
 </div>
 
