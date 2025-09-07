@@ -81,11 +81,18 @@ muskan@devspace:~$ echo "AI/ML Enthusiast • Systems Researcher"
 ---
 
 ## 📊 GitHub Analytics
-<div align="center">  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanas78&layout=compact&theme=radical&hide_border=true&custom_title=Language+Distribution"/>  
-<img height="180em" src="https://streak-stats.demolab.com/?user=muskanas78&theme=radical&hide_border=true"/>  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muskanas78&theme=react-dark&hide_border=true&area=true"/>  
-</div> 
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanas78&layout=compact&theme=radical&hide_border=true&custom_title=Language%20Distribution"/>  
+<img height="180em" src="https://streak-stats.demolab.com/?user=muskanas78&theme=radical&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muskanas78&theme=react-dark&hide_border=true&area=true)](https://github.com/muskanas78)
+
+</div>
 
 ---
 
@@ -203,5 +210,3 @@ If my research and dev intrigues you, let’s collaborate :)
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=100&section=footer&reversal=true&gradientColor=6A5ACD" width="100%"/>
 </div>
-
-
