@@ -185,8 +185,8 @@ Gesture-based drawing app:
 - **O-Levels in Pre-Engineering and Fine Arts**, Bahria College Islamabad
 
 
-## ⚙️ Hobbies & Interests
-📝 Journaling | 🎨 Interior Design | 🎬 Movies | 📖 Books | 🎾 Court Tennis | 🎮 Offline Games | 🏔️ Travel | 🗣️ Languages
+## ⚙️ Interests
+📝 Journaling | 🎨 Interior Design | 🎬 Movies | 📖 Books | 🎾 Court Tennis | 🎮 Offline Games | ♟️ Chess | 🏔️ Travel | 🗣️ Languages
 
 
 ## 💼 Connect with Me
