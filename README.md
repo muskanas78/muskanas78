@@ -101,12 +101,13 @@ muskan@devspace:~$ echo "AI/ML Enthusiast • Systems Researcher"
 <tr>
   
 <td width="33%" style="background-color: #2c2c2c; padding: 20px; vertical-align: top; color: #dcdcdc;">
-<strong style="color:#ffffff;">🧬 Ascend</strong><br>
+<strong style="color:#ffffff;">🛡️ Ascend</strong><br>
 Flagship platform for US client:  
 <ul style="color:#dcdcdc;">
-<li>🗄️ Data curation, transformation & feature engineering</li>
-<li>📊 Quantitative analysis & file handling</li>
-<li>🛠️ Systems operations & cross-team issue resolution</li>
+<li>📊 Quantitative data analysis, curation & transformation</li>
+<li>🗄️ Feature engineering & file handling</li>
+<li>🧬 DNA & Rule Synthesizer development</li>
+<li>🛠️ System ops & cross-team issue resolution</li>
 <li>✅ 20+ bugs identified & reported</li>
 </ul>
 </td>
@@ -128,9 +129,9 @@ Smart route-finding tool:
 <strong style="color:#ffffff;">📈 Stock Price Predictor</strong><br>
 AI-powered stock analysis:  
 <ul style="color:#dcdcdc;">
-<li>📊 Real-time data & financial indicators</li>
-<li>🤖 ML forecasts (Linear Regression & Random Forest)</li>
-<li>📈 Interactive charts & visual analytics</li>
+<li>⚡ Real-time data & financial indicators</li>
+<li>🤖 ML forecasting (Linear Regression & Random Forest)</li>
+<li>📊 Interactive charts & visual analytics</li>
 <li>💬 AI chatbot for insights & queries</li>
 <li>🌍 Coverage: US, PK, UK, DE, JP, etc.</li>
 </ul>
@@ -156,9 +157,9 @@ Pakistan’s news analytics platform:
 <strong style="color:#ffffff;">🤖 Multi-Agent AI System</strong><br>
 AI-driven framework:  
 <ul style="color:#dcdcdc;">
-<li>🧬 Autonomous agents (Researcher, Writer, Editor)</li>
+<li>🔗 Autonomous agents (Researcher, Writer, Editor)</li>
 <li>⚡ Parallel document processing</li>
-<li>📈 94% task success rate</li>
+<li> ✅ 97% task success rate</li>
 <li>🧩 Modular & scalable design</li>
 <li>🧠 Agentic AI with decision-making & self-coordination</li>
 </ul>
