@@ -166,13 +166,13 @@ AI-driven framework:
 </td>
 
 <td width="33%" style="background-color: #2c2c2c; padding: 20px; vertical-align: top; color: #dcdcdc;">
-<strong style="color:#ffffff;">🎨 Air Draw</strong><br>
+<strong style="color:#ffffff;">🕵️ Air Draw - Computer Vision</strong><br>
 Gesture-based drawing app:  
 <ul style="color:#dcdcdc;">
-<li>✋ Real-time hand tracking (30 FPS)</li>
-<li>🎯 10+ gesture recognitions</li>
-<li>🖼️ OpenCV-powered vision</li>
-<li>🖌️ Interactive virtual canvas</li>
+<li>🔍 Real-time hand tracking (30 FPS)</li>
+<li>🤚 10+ gesture recognitions</li>
+<li>📷 OpenCV-powered vision</li>
+<li>🖋️ Interactive virtual canvas</li>
 <li>🎨 Customizable brush colors and stroke styles</li>
 </ul>
 </td>
