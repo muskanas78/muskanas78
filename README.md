@@ -18,7 +18,7 @@
 
 ---
 
-## 🖥️ `$ whoami` <sup>"AI developer by day, gamer also by day. At night, I sleep."</sup>
+## 🖥️ `$ whoami` <sup>"AI developer by day, univerity student also by day. At night, I sleep."</sup>
 
 muskan@devspace:~$ echo "AI/ML Enthusiast • Systems Researcher"
  
