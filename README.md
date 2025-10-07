@@ -18,11 +18,11 @@
 
 ---
 
-## 🖥️ `$ whoami` <sup>"AI developer by day, univerity student also by day. At night, I sleep."</sup>
+## 🖥️ `$ whoami` <sup>"AI developer by day, researcher also by day. At night, I sleep."</sup>
 
 muskan@devspace:~$ echo "AI/ML Enthusiast • Systems Researcher"
  
-- ⚙️ Working on AI systems — neural networks, agentic AI, and computer vision  
+- ⚙️ Working on AI systems — machine learning, reinforcement learning, neural networks, agentic AI, and computer vision  
 - 📈 Turning quantitative data into models and insights  
 - 🌱 Always learning, building, and experimenting with emerging tech
 
