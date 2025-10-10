@@ -25,6 +25,7 @@ muskan@devspace:~$ echo "AI/ML Enthusiast • Systems Researcher"
 - ⚙️ Working on AI systems — machine learning, reinforcement learning, agentic AI, and computer vision  
 - 📈 Turning quantitative data into models and insights  
 - 🌱 Always learning, building, and experimenting with emerging tech
+- 🔭 I’m looking forward to collaborate on anything I find interesting
 
 ---
 
