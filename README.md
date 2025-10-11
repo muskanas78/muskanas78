@@ -46,7 +46,7 @@ muskan@devspace:~$ echo "AI/ML Enthusiast • Systems Researcher"
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
-### 🤖 AI, ML & Data  
+### 🤖 AI, ML & Data Science
 
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=chain&logoColor=white) 
