@@ -1,12 +1,12 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZkenUxYzMyeGE3Z3JvcnU4amthaGtmczZqYmxpOGZ1OGVxY2VoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dzv7JShHYPDP2/giphy.gif" width="120"/>
+  <img src="assets/m.png" width="120"/>
 </div>
 
 <div align="center">
   <h3>˚｡⋆⭑✧🔭๋࣭⭑⋆｡˚</h3>
-  <h1>Muskan Ahmed</h1>
+  <h1>Muskan Ahmed Shaikh</h1>
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1500&pause=500&color=7B0000&center=true&width=500&lines=AI%2FML+Developer;FinTech+Researcher;Computer+Vision;Quantitative+Systems;Web+Developer;UI%2FUX+Designer" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1500&pause=500&color=FF4500&center=true&width=500&lines=AI%2FML+Developer;FinTech+Researcher;Computer+Vision;Quantitative+Systems;Web+Developer;UI%2FUX+Designer" alt="Typing SVG">
   </p>
 </div>
 
