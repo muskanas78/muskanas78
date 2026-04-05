@@ -15,7 +15,7 @@
 ---
 
 ## 🖥️ `$ whoami`
-<img align="right" width="200" src="m.png" />
+<img align="right" width="200" src="m.png" style="background-color: transparent;" />
 
 muskan@devspace:~$ echo "AI/ML Enthusiast • Systems Researcher"
  
