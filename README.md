@@ -1,10 +1,10 @@
 <div id="header" align="center">
-  <img src="assets/m.png" width="120"/>
+  <img src="m.png" width="200"/>
 </div>
 
 <div align="center">
   <h3>˚｡⋆⭑✧🔭๋࣭⭑⋆｡˚</h3>
-  <h1>Muskan Ahmed Shaikh</h1>
+  <h1>👋 Hi, I'm Muskan Ahmed Shaikh</h1>
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1500&pause=500&color=FF4500&center=true&width=500&lines=AI%2FML+Developer;FinTech+Researcher;Computer+Vision;Quantitative+Systems;Web+Developer;UI%2FUX+Designer" alt="Typing SVG">
   </p>
