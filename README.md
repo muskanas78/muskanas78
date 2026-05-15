@@ -143,7 +143,7 @@ AI-driven framework:
 ## 🎓 Education
 - **BSc Financial Technology**, FAST-NUCES Islamabad
 - **A-Levels in Computer Science**, Bahria College Islamabad
-- **O-Levels in Pre-Engineering and Fine Arts**, Bahria College Islamabad
+- **O-Levels in Pre-Engineering**, Bahria College Islamabad
 
 
 ## ⚙️ Interests
