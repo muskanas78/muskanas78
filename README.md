@@ -2,7 +2,7 @@
   <h1>👋 Hi, I'm Muskan Ahmed Shaikh</h1>
   <p align="center">
     <h3>˚｡⋆⭑✧🔭๋࣭⭑⋆｡˚</h3>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1500&pause=500&color=FF4500&center=true&width=500&lines=AI%2FML+Developer;FinTech+Researcher;Computer+Vision;Quantitative+Systems;Web+Developer;UI%2FUX+Designer" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1500&pause=500&color=FF4500&center=true&width=500&lines=AI%2FML+Developer;FinTech+Researcher;Computer+Vision;Quantitative+Systems" alt="Typing SVG">
   </p>
 </div>
 
@@ -39,7 +39,6 @@ muskan@devspace:~$ echo "AI/ML Enthusiast • Systems Researcher"
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
@@ -80,7 +79,6 @@ muskan@devspace:~$ echo "AI/ML Enthusiast • Systems Researcher"
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanas78&layout=compact&theme=radical&hide_border=true&custom_title=Language%20Distribution" height="177em" width="350px" style="display:inline-block; margin: 0 10px;"/>
   <img src="https://streak-stats.demolab.com/?user=muskanas78&theme=radical&hide_border=true" height="180em" width="400px" style="display:inline-block; margin: 0 10px;"/>
 </div>
 
@@ -111,35 +109,6 @@ Flagship platform for US client:
 </td>
 
 <td width="33%" style="background-color: #2c2c2c; padding: 20px; vertical-align: top; color: #dcdcdc;">
-<strong style="color:#ffffff;">🗺️ Fast Explorer Map</strong><br>
-Smart route-finding tool:  
-<ul style="color:#dcdcdc;">
-<li>🏙️ 70+ mapped Pakistani cities</li>
-<li>🧮 Dijkstra’s algorithm (O(E log V))</li>
-<li>🌲 Min-heap for efficiency</li>
-<li>✅ 99.2% path accuracy</li>
-<li>📍 City-to-city SSSP visualization</li>
-<li>🗄️ Graph-based representation with CSV input for nodes & edges</li>
-</ul>
-</td>
-
-<td width="33%" style="background-color: #2c2c2c; padding: 20px; vertical-align: top; color: #dcdcdc;">
-<strong style="color:#ffffff;">📈 Stock Price Predictor</strong><br>
-AI-powered stock analysis:  
-<ul style="color:#dcdcdc;">
-<li>⚡ Real-time data & financial indicators</li>
-<li>🤖 ML forecasting (Linear Regression & Random Forest)</li>
-<li>📊 Interactive charts & visual analytics</li>
-<li>💬 AI chatbot for insights & queries</li>
-<li>🌍 Coverage: US, PK, UK, DE, JP, etc.</li>
-</ul>
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" style="background-color: #2c2c2c; padding: 20px; vertical-align: top; color: #dcdcdc;">
 <strong style="color:#ffffff;">📰 NAaaS - News Analytics as a Service</strong><br>
 Pakistan’s news analytics platform:  
 <ul style="color:#dcdcdc;">
@@ -160,18 +129,6 @@ AI-driven framework:
 <li> ✅ 97% task success rate</li>
 <li>🧩 Modular & scalable design</li>
 <li>🧠 Agentic AI with decision-making & self-coordination</li>
-</ul>
-</td>
-
-<td width="33%" style="background-color: #2c2c2c; padding: 20px; vertical-align: top; color: #dcdcdc;">
-<strong style="color:#ffffff;">🕵️ Air Draw - Computer Vision</strong><br>
-Gesture-based drawing app:  
-<ul style="color:#dcdcdc;">
-<li>🔍 Real-time hand tracking (30 FPS)</li>
-<li>🤚 10+ gesture recognitions</li>
-<li>📷 OpenCV-powered vision</li>
-<li>🖋️ Interactive virtual canvas</li>
-<li>🎨 Customizable brush colors and stroke styles</li>
 </ul>
 </td>
 
