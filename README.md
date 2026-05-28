@@ -8,7 +8,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=800&color=7B68EE&center=true&vCenter=true&multiline=true&width=1200&height=100&lines=>+AI+Developer+%40+Adept+Tech+Solutions+%7C+React+Developer+%40+Finova+Solutions;>+BSc+Financial+Technology+%40+FAST+NUCES+%7C+Year+4+%7C+Graduating+2027;>+Specializing%3A+AI%2FML%2C+Quantitative+Analysis%2C+Agentic+AI;)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=800&color=7B68EE&center=true&vCenter=true&multiline=true&width=1200&height=160&lines=>+AI+Developer+%40+Adept+Tech+Solutions+%7C+Frontend+Developer+%40+Finova+Solutions;>+National+AI+Hackathon+Runner-up+%40+Replit+AI+x+YMF+%7C+Research+Assistant;>+BSc+Financial+Technology+%40+FAST+NUCES+%7C+Year+4+%7C+Graduating+2027;>+Specializing%3A+AI%2FML%2C+Quantitative+Analysis%2C+Agentic+AI)
 
 </div>
 
